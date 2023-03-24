@@ -1,2 +1,3 @@
-# Product-preview-Card-Component---FrontendMentor
-Product preview Card Component - FrontendMentor - Newbie
+# Product-preview-Card-Component
+Product preview Card Component - 
+
