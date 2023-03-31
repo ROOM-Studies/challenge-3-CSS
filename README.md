@@ -13,8 +13,7 @@
 
 <div align="center">
 
-<img height="600" src="https://user-images.githubusercontent.com/98264322/229157270-1c4665b1-8c88-436b-b423-38b2f8615a37.png"/>
-
+<img height="600" src="https://user-images.githubusercontent.com/98264322/229164595-fbc2bc48-db5d-4d8f-91eb-593d609fb97a.png"/>
 
 
 </div>
@@ -36,6 +35,6 @@ Este desafio foi desenvolvido com as seguintes tecnologias:
 <br> 
 
 ## 🔖 Layout
-Você pode acessar o layout deste projecto através [deste link](https://www.figma.com/community/file/1223495853380336575/BitCoins-Academy). É necessário ter um conta no  [Figma](https://figma.com) para acessar.
+Você pode acessar o layout deste projecto através [deste link](figma.com/community/file/1223511098817808329/Room-Page). É necessário ter um conta no  [Figma](https://figma.com) para acessar.
 
 
